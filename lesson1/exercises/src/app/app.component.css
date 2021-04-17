@@ -1,0 +1,15 @@
+#title {
+    text-align: center;
+}
+
+#links {
+    text-align: center;
+}
+
+#left {
+    border-right: 1px dashed;
+}
+
+#right {
+    border-left: 1px dashed;
+}
